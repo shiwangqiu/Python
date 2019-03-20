@@ -26,6 +26,7 @@ def newint():
     print(n1, opr[fh], n2, '= ', end='')
     return rjg
 
+#真分数运算
 def newfra():
     opr = ['＋', '－', '×', '÷']
     fh = random.randint(0, 3)
