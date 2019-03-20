@@ -2,6 +2,7 @@
 import random
 from fractions import Fraction
 
+#整数运算
 def newint():
     opr = ['＋', '－', '×', '÷']
     fh = random.randint(0, 3)
